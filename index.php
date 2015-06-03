@@ -68,4 +68,3 @@ software, even if advised of the possibility of such damage.
     $Daux->initialize();
     $page = $Daux->handle_request($_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], $_REQUEST);
     $page->display();
-?>

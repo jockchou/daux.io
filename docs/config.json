@@ -7,18 +7,17 @@
     "template": "default",
     "clean_urls": true,
     "toggle_code": true,
-    "breadcrumbs": true,
+    "breadcrumbs": false,
     "breadcrumb_separator": "Chevrons",
     "date_modified": true,
-    "float": true,
+    "float": false,
     "file_editor": false,   
-    "repo": "justinwalsh/daux.io",
+    "repo": "jockchou/daux.io",
     "ignore": {
             "files": ["Work_In_Progress.md"],
             "folders": ["99_Not_Ready"]
     },
-    "twitter": ["justin_walsh", "todaymade"],
-    "google_analytics": "UA-12653604-10",
+    "twitter": [],
     "links": {
         "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
         "GitHub Repo": "https://github.com/justinwalsh/daux.io",

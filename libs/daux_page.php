@@ -196,5 +196,3 @@
             return static::$template->get_content($page, $params);
         }
     }
-
-    ?>

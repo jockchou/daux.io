@@ -358,6 +358,3 @@ EOT;
             return $code;
         }
     }
-
-
-?>
